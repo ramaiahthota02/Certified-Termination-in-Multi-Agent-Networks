@@ -1,0 +1,4 @@
+# Tested with Python 3.13.18, numpy 2.5.3, matplotlib 3.11.2.
+# numpy is used by the Random Waypoint and formation simulations; matplotlib only by figs.py.
+numpy>=1.21
+matplotlib>=3.5
